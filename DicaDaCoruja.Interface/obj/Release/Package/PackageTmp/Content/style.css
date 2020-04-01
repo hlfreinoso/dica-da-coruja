@@ -1,0 +1,277 @@
+﻿/*
+Register
+*/
+#geral {
+background-color: #fff;
+}
+#login {
+min-width: 200px;
+padding: 8% 0 0;
+margin: auto;
+}
+.form-login {
+position: relative;
+z-index: 1;
+background: #0f1086;
+max-width: 360px;
+max-height: 280px;
+margin: 0 auto 100px;
+padding: 45px;
+text-align: center;
+border: 1px solid #EEE;
+}
+.form-login input {
+outline: 0;
+background: #fff;
+width: 100%;
+border: 0;
+margin: 0 0 15px;
+padding: 15px;
+box-sizing: border-box;
+font-size: 14px;
+}
+.BtnEntrar {
+color: #808080;
+}
+.BtnEntrar:hover, .BtnEntrar:active, .BtnEntrar:focus {
+color: #fff;
+background: #01adff;
+}
+.sair {
+color: #9D9D9D;
+padding: 12px 12px;
+display: inline-block;
+}
+.sair:focus, .sair:hover {
+color: #FFF;
+background-color: transparent;
+text-decoration: none;
+}
+.L150 {
+width: 150px;
+}
+.L182 {
+width: 182px;
+}
+.L200 {
+width: 200px;
+}
+.L250 {
+width: 250px;
+}
+/*
+Home
+*/
+body {
+font-family: Verdana;
+font-size: 16px;
+background-color: #ffffff;
+margin: 0px;
+}
+#Home {
+margin-left: 1%;
+margin-right: 1%;
+margin-bottom: 1%;
+}
+#Top {
+max-height: 115px;
+margin-bottom: 2%;
+margin: auto;
+position: relative;
+}
+#Bar {
+}
+#Center {
+min-height: 300px;
+}
+#Footer {
+}
+.Margin1 {
+margin: 1%;
+position: relative;
+}
+.MarginTop1 {
+margin-top: 1%;
+position: relative;
+}
+.Margin5 {
+margin: 5%;
+position: relative;
+}
+.ImgAlg {
+max-width: 900px;
+margin: auto;
+position: relative;
+text-align: center;
+}
+.ImgAlgTopo {
+max-width: 575px;
+margin: auto;
+position: relative;
+text-align: center;
+}
+.ImgAlgOferta {
+width: 20%;
+height: 100%;
+display: table;
+margin-left: 2%;
+position: relative;
+float: left;
+}
+.ImgAlgPreco {
+width: 76%;
+height: 100%;
+margin-right: 2%;
+text-align: right;
+float: right;
+}
+.VerAlg {
+display: table-cell;
+vertical-align: middle;
+margin-top: -8px;
+}
+.MarginBotton {
+margin-bottom: 5%;
+}
+.TxtAzul {
+color: #01adff;
+}
+.TxtVerde {
+color: #2dac29;
+}
+.TxtVermelho {
+color: #f30100;
+}
+.TxtCenter {
+text-align: center;
+}
+.TxtHome {
+text-align: left;
+font-size: 22px;
+}
+.FundoAzul {
+background-color: #01adff;
+}
+.FundoVerde {
+background-color: #2dac29;
+}
+.FundoVermelho {
+background-color: #f30100;
+}
+.FaixaAnuncio {
+height: 40px;
+width: 100%;
+margin: 0px;
+font-size: 16px;
+color: #ffffff;
+display: -webkit-flex;
+display: flex;
+-webkit-align-items: center;
+align-items: center;
+-webkit-justify-content: center;
+justify-content: center;
+}
+.Larg100 {
+width: 100%;
+}
+.Alt100 {
+height: 100%;
+}
+.Alt420 {
+min-height: 420px;
+display: table;
+position: relative;
+}
+.Alt1250 {
+min-height: 1250px;
+display: table;
+position: relative;
+}
+.BordaAzul {
+border: 1px solid;
+border-color: #01adff;
+}
+.BordaAzulEsc {
+border: 1px solid;
+border-color: #0f1086;
+}
+.BordaVerde {
+border: 1px solid;
+border-color: #2dac29;
+}
+.BordaVermelho {
+border: 1px solid;
+border-color: #f30100;
+}
+.Transparente {
+border: 0px;
+border-color: transparent;
+background-color: transparent;
+}
+.DropDownItem {
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+}
+.AjusteTop2 {
+margin-top: 2px;
+}
+.DivGridView {
+border: 1px solid black;
+height: 200px;
+overflow-y: scroll;
+overflow-x: scroll;
+width: 1130px;
+}
+.BoxText {
+border: solid;
+border-width: 1px;
+border-color: #808080;
+min-height: 30px;
+min-width: 195px;
+max-height: 30px;
+max-width: 195px;
+float: initial, left;
+}
+.BoxTextCalendario {
+border: solid;
+border-width: 1px;
+border-color: #808080;
+min-height: 30px;
+min-width: 195px;
+max-height: 32px;
+max-width: 195px;
+float: initial, left;
+}
+.BoxText:hover, .BoxText:focus, .BoxText:active, .BoxTextCalendario:hover, .BoxTextCalendario:focus, .BoxTextCalendario:active {
+border: solid;
+border-width: 1px;
+border-color: #0f1086;
+}
+.TextBoxCalendario {
+border: none;
+width: 160px;
+margin-left: 2px;
+height: 28px;
+background-color: transparent;
+}
+.TextBoxText {
+border: none;
+width: 190px;
+height: 28px;
+margin-top: -1px;
+background-color: transparent;
+}
+.DropDownCad {
+border: solid;
+border-width: 1px;
+border-color: #808080;
+height: 30px;
+width: 195px;
+float: initial, left;
+}
+.DropDownCad:hover, .DropDownCad:focus, .DropDownCad:active {
+border: solid;
+border-width: 1px;
+border-color: #0f1086;
+}

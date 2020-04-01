@@ -1,0 +1,31 @@
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Interface.dll.config
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Interface.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Interface.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\bin\AjaxControlToolkit.DLL
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Entidades.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Negocios.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Entidades.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Negocios.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Dados.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\obj\Release\DicaDaCoruja.Interface.csprojResolveAssemblyReference.cache
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\obj\Release\DicaDaCoruja.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\obj\Release\DicaDaCoruja.Interface.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Interface\obj\Release\DicaDaCoruja.Interface.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Interface.dll.config
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Interface.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Interface.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Entidades.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Negocios.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Entidades.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Negocios.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\bin\DicaDaCoruja.Dados.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\obj\Release\DicaDaCoruja.Interface.csprojResolveAssemblyReference.cache
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\obj\Release\DicaDaCoruja.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\obj\Release\DicaDaCoruja.Interface.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Interface\obj\Release\DicaDaCoruja.Interface.pdb

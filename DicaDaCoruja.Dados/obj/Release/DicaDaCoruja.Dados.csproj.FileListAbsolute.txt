@@ -1,0 +1,16 @@
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\bin\Release\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\bin\Release\DicaDaCoruja.Dados.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\bin\Release\DicaDaCoruja.Entidades.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\bin\Release\DicaDaCoruja.Entidades.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\obj\Release\DicaDaCoruja.Dados.csprojResolveAssemblyReference.cache
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\obj\Release\DicaDaCoruja.Dados.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\obj\Release\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\obj\Release\DicaDaCoruja.Dados.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\bin\Release\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\bin\Release\DicaDaCoruja.Dados.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\bin\Release\DicaDaCoruja.Entidades.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\bin\Release\DicaDaCoruja.Entidades.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\obj\Release\DicaDaCoruja.Dados.csprojResolveAssemblyReference.cache
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\obj\Release\DicaDaCoruja.Dados.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\obj\Release\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\obj\Release\DicaDaCoruja.Dados.pdb

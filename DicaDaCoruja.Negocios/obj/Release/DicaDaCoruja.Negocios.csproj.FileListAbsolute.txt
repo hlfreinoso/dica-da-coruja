@@ -1,0 +1,20 @@
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Release\DicaDaCoruja.Negocios.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Release\DicaDaCoruja.Negocios.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Release\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Release\DicaDaCoruja.Entidades.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Release\DicaDaCoruja.Dados.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Release\DicaDaCoruja.Entidades.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Release\DicaDaCoruja.Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Release\DicaDaCoruja.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Release\DicaDaCoruja.Negocios.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Release\DicaDaCoruja.Negocios.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Release\DicaDaCoruja.Negocios.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Release\DicaDaCoruja.Negocios.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Release\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Release\DicaDaCoruja.Entidades.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Release\DicaDaCoruja.Dados.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Release\DicaDaCoruja.Entidades.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Release\DicaDaCoruja.Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Release\DicaDaCoruja.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Release\DicaDaCoruja.Negocios.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Release\DicaDaCoruja.Negocios.pdb

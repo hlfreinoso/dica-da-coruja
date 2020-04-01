@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /Register/
+Disallow: /Users/
+Disallow: /Authentication/
+Sitemap: http://www.dicadacoruja.com/sitemap.xml 

@@ -1,0 +1,93 @@
+﻿#Bar {margin: 0;padding: 0;list-style: none;line-height: 1;display: block;position: relative;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;border: solid #070841 1px;border-radius: 6px;}
+#Bar ul,#Bar ul li,#Bar ul li a,#Bar #menu-button {margin: 0;padding: 0;border: 0;list-style: none;line-height: 1;display: block;position: relative;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;border-radius: 6px;border-color: #070841;}
+#Bar:after,#Bar > ul:after {content: ".";display: block;clear: both;visibility: hidden;line-height: 0;height: 0;}
+#Bar #menu-button {display: none;}
+#Bar {background: #0f1086;}
+#Bar > ul > li {float: left;}
+#Bar.align-center > ul {font-size: 0;text-align: center;}
+#Bar.align-center > ul > li {display: inline-block;float: none;}
+#Bar.align-center ul ul {text-align: left;}
+#Bar.align-right > ul > li {float: right;}
+#Bar > ul > li > a {padding: 17px;font-size: 12px;letter-spacing: 1px;text-decoration: none;color: #dddddd;font-weight: 700;text-transform: uppercase;}
+#Bar > ul > li:hover > a {color: #ffffff;background: #070841;}
+#Bar > ul > li.has-sub > a {padding-right: 30px;}
+#Bar > ul > li.has-sub > a:after {position: absolute;top: 22px;right: 11px;width: 8px;height: 2px;display: block;background: #dddddd;content: '';}
+#Bar > ul > li.has-sub > a:before {position: absolute;top: 19px;right: 14px;display: block;width: 2px;height: 8px;background: #dddddd;content: '';-webkit-transition: all .25s ease;-moz-transition: all .25s ease;-ms-transition: all .25s ease;-o-transition: all .25s ease;transition: all .25s ease;}
+#Bar > ul > li.has-sub:hover > a:before {top: 23px;height: 0;}
+#Bar ul ul {position: absolute;left: -9999px;}
+#Bar.align-right ul ul {text-align: right;}
+#Bar ul ul li {height: 0;-webkit-transition: all .25s ease;-moz-transition: all .25s ease;-ms-transition: all .25s ease;-o-transition: all .25s ease;transition: all .25s ease;}
+#Bar li:hover > ul {left: auto;}
+#Bar.align-right li:hover > ul {left: auto;right: 0;}
+#Bar li:hover > ul > li {height: 35px;}
+#Bar ul ul ul {margin-left: 100%;top: 0;}
+#Bar.align-right ul ul ul {margin-left: 0;margin-right: 100%;}
+#Bar ul ul li a {border-bottom: 1px solid rgba(150, 150, 150, 0.15);padding: 11px 15px;width: 170px;font-size: 12px;text-decoration: none;color: #dddddd;font-weight: 400;background: #0f1086;}
+#Bar ul ul li:last-child > a,#Bar ul ul li.last-item > a {border-bottom: 0;}
+#Bar ul ul li:hover > a,#Bar ul ul li a:hover {color: #ffffff;background: #070841;}
+#Bar ul ul li.has-sub > a:after {position: absolute;top: 16px;right: 11px;width: 8px;height: 2px;display: block;background: #dddddd;content: '';}
+#Bar.align-right ul ul li.has-sub > a:after {right: auto;left: 11px;}
+#Bar ul ul li.has-sub > a:before {
+position: absolute;
+top: 13px;
+right: 14px;
+display: block;
+width: 2px;
+height: 8px;
+background: #dddddd;
+content: '';
+-webkit-transition: all .25s ease;
+-moz-transition: all .25s ease;
+-ms-transition: all .25s ease;
+-o-transition: all .25s ease;
+transition: all .25s ease;
+}
+#Bar.align-right ul ul li.has-sub > a:before {
+right: auto;
+left: 14px;
+}
+#Bar ul ul > li.has-sub:hover > a:before {
+top: 17px;
+height: 0;
+}
+@media all and (max-width: 768px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
+#Bar {
+width: 100%;
+}
+#Bar ul {
+width: 100%;
+display: none;
+}
+#Bar.align-center > ul {
+text-align: left;
+}
+#Bar ul li {
+width: 100%;
+border-top: 1px solid rgba(120, 120, 120, 0.2);
+}
+#Bar ul ul li,
+#Bar li:hover > ul > li {
+height: auto;
+}
+#Bar ul li a,#Bar ul ul li a {width: 100%;border-bottom: 0;}
+#Bar > ul > li {float: none;}
+#Bar ul ul li a {padding-left: 25px;}
+#Bar ul ul ul li a {padding-left: 35px;}
+#Bar ul ul li a {color: #dddddd;background: none;}
+#Bar ul ul li:hover > a,#Bar ul ul li.active > a {color: #ffffff;background: #070841;}
+#Bar ul ul,#Bar ul ul ul,#Bar.align-right ul ul {position: relative;left: 0;width: 100%;margin: 0;text-align: left;}
+#Bar > ul > li.has-sub > a:after,#Bar > ul > li.has-sub > a:before,#Bar ul ul > li.has-sub > a:after,#Bar ul ul > li.has-sub > a:before {display: none;}
+#Bar #menu-button {display: block;padding: 17px;color: #dddddd;cursor: pointer;font-size: 12px;text-transform: uppercase;font-weight: 700;}
+#Bar #menu-button:after {position: absolute;top: 22px;right: 17px;display: block;height: 4px;width: 20px;border-top: 2px solid #dddddd;border-bottom: 2px solid #dddddd;content: '';}
+#Bar #menu-button:before {position: absolute;top: 16px;right: 17px;display: block;height: 2px;width: 20px;background: #dddddd;content: '';}
+#Bar #menu-button.menu-opened:after {top: 23px;border: 0;height: 2px;width: 15px;background: #ffffff;-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);transform: rotate(45deg);}
+#Bar #menu-button.menu-opened:before {top: 23px;background: #ffffff;width: 15px;-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-ms-transform: rotate(-45deg);-o-transform: rotate(-45deg);transform: rotate(-45deg);}
+#Bar .submenu-button {position: absolute;z-index: 99;right: 0;top: 0;display: block;border-left: 1px solid rgba(120, 120, 120, 0.2);height: 46px;width: 46px;cursor: pointer;}
+#Bar .submenu-button.submenu-opened {background: #070841;}
+#Bar ul ul .submenu-button {height: 34px;width: 34px;}
+#Bar .submenu-button:after {position: absolute;top: 22px;right: 19px;width: 8px;height: 2px;display: block;background: #dddddd;content: '';}
+#Bar ul ul .submenu-button:after {top: 15px;right: 13px;}
+#Bar .submenu-button.submenu-opened:after {background: #ffffff;}
+#Bar .submenu-button:before {position: absolute;top: 19px;right: 22px;display: block;width: 2px;height: 8px;background: #dddddd;content: '';}
+#Bar ul ul .submenu-button:before {top: 12px;right: 16px;}
+#Bar .submenu-button.submenu-opened:before {display: none;}}

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D1C1F475-169D-4614-8950-64C0432779DB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DicaDaCoruja.Negocios</RootNamespace>
+    <AssemblyName>DicaDaCoruja.Negocios</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acesso\GeraUpdate.cs" />
+    <Compile Include="Acesso\GravarAnuncio.cs" />
+    <Compile Include="Acesso\GravarCategoria.cs" />
+    <Compile Include="Acesso\GravarCidade.cs" />
+    <Compile Include="Acesso\GravarFornecedor.cs" />
+    <Compile Include="Acesso\GravarLog.cs" />
+    <Compile Include="Acesso\GravarPainel.cs" />
+    <Compile Include="Acesso\GravarProduto.cs" />
+    <Compile Include="Acesso\GravarUsuario.cs" />
+    <Compile Include="Acesso\LerAnuncioHome.cs" />
+    <Compile Include="Acesso\LerAnuncioPesquisa.cs" />
+    <Compile Include="Acesso\LerNumPainel.cs" />
+    <Compile Include="Acesso\LerNumProduto.cs" />
+    <Compile Include="Acesso\LerPainelHome.cs" />
+    <Compile Include="Acesso\LerSelect.cs" />
+    <Compile Include="Acesso\LoginBo.cs" />
+    <Compile Include="Exceptions\UsuarioNaoCadastrdoException.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DicaDaCoruja.Dados\DicaDaCoruja.Dados.csproj">
+      <Project>{fc1599bf-a0a4-4a66-9d1f-73d77a456361}</Project>
+      <Name>DicaDaCoruja.Dados</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DicaDaCoruja.Entidades\DicaDaCoruja.Entidades.csproj">
+      <Project>{c3ac7ae9-ee2d-4735-a8fc-f681a2cff936}</Project>
+      <Name>DicaDaCoruja.Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

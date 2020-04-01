@@ -1,0 +1,16 @@
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\obj\Debug\DicaDaCoruja.Dados.csprojResolveAssemblyReference.cache
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\obj\Debug\DicaDaCoruja.Dados.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\bin\Debug\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\bin\Debug\DicaDaCoruja.Dados.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\bin\Debug\DicaDaCoruja.Entidades.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\bin\Debug\DicaDaCoruja.Entidades.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\obj\Debug\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Dados\obj\Debug\DicaDaCoruja.Dados.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\bin\Debug\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\bin\Debug\DicaDaCoruja.Dados.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\bin\Debug\DicaDaCoruja.Entidades.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\bin\Debug\DicaDaCoruja.Entidades.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\obj\Debug\DicaDaCoruja.Dados.csprojResolveAssemblyReference.cache
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\obj\Debug\DicaDaCoruja.Dados.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\obj\Debug\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Dados\obj\Debug\DicaDaCoruja.Dados.pdb

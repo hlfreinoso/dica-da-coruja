@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Users.master.cs" Inherits="DicaDaCoruja.Interface.Users.Users" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Dica da Coruja</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link href="../Content/jquery-ui.min.css" rel="stylesheet" />
+    <link href="../Content/jquery-ui.structure.min.css" rel="stylesheet" />
+    <link href="../Content/jquery-ui.theme.min.css" rel="stylesheet" />
+    <link href="../Content/style-common.css" rel="stylesheet" />
+    <link href="../Content/style-users.css" rel="stylesheet" />
+    <link href="../Images/logo-icone.ico" rel="shortcut icon" type="image/x-icon" />
+    <script type="text/javascript" src="../Scripts/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="../Scripts/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="../Scripts/java-common.js"></script>
+    <script type="text/javascript" src="../Scripts/java-users.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="Home" runat="server">
+        <div id="Top">
+            <div class="ImgAlgTopo">
+                <img src="../Images/topo.jpg" class="ImgResponse" title="Dica da Coruja"/>
+            </div>
+        </div>
+        <div id="Bar">
+            <ul>
+                <li><a href="../Users/Home.aspx">Home</a></li>
+                <li><a href='#'>Cadastros</a>
+                    <ul>
+                        <li><a href="../Users/Anuncios.aspx">Aúncios</a></li>
+                        <li><a href="../Users/Paineis.aspx">Paineis</a></li>
+                    </ul>
+                </li>
+                <li><a href='#'>Relatórios</a>
+                    <ul>
+                        <li><a href="../Users/Acessos.aspx">Acessos</a></li>
+                        <li><a href="../Users/Historico.aspx">Histórico</a></li>
+                    </ul>
+                </li>
+                <li><a href='#'>Sua Conta</a>
+                    <ul>
+                        <li><a href="../Users/Pacotes.aspx">Comprar Pacotes</a></li>
+                        <li><a href="../Users/Senha.aspx">Alterar Senha</a></li>
+                        <li>
+                            <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                                <LoggedInTemplate>
+                                    <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="RedirectToLoginPage" LogoutText="Sair" CssClass="sair" />
+                                </LoggedInTemplate>
+                            </asp:LoginView>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div id="Center">
+            <asp:ContentPlaceHolder ID="Centro" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div id="Footer">
+            <div>Desenvolvido por heitor.suporte@hotmail.com</div>
+        </div>
+    </form>
+</body>
+</html>

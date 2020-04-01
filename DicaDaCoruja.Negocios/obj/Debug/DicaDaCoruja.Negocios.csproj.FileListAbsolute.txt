@@ -1,0 +1,20 @@
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Debug\DicaDaCoruja.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Debug\DicaDaCoruja.Negocios.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Debug\DicaDaCoruja.Negocios.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Debug\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Debug\DicaDaCoruja.Entidades.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Debug\DicaDaCoruja.Dados.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Debug\DicaDaCoruja.Entidades.pdb
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Debug\DicaDaCoruja.Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Debug\DicaDaCoruja.Negocios.dll
+C:\Users\Heitor\source\repos\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Debug\DicaDaCoruja.Negocios.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Debug\DicaDaCoruja.Negocios.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Debug\DicaDaCoruja.Negocios.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Debug\DicaDaCoruja.Dados.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Debug\DicaDaCoruja.Entidades.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Debug\DicaDaCoruja.Dados.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\bin\Debug\DicaDaCoruja.Entidades.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Debug\DicaDaCoruja.Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Debug\DicaDaCoruja.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Debug\DicaDaCoruja.Negocios.dll
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\DicaDaCoruja\DicaDaCoruja.Negocios\obj\Debug\DicaDaCoruja.Negocios.pdb

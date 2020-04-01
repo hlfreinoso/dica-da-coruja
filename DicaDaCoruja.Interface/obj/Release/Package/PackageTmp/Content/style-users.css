@@ -1,0 +1,6 @@
+﻿::-webkit-input-placeholder { color: #2779aa; }
+:-moz-placeholder { color: #2779aa; }
+::-moz-placeholder { color: #2779aa; }
+:-ms-input-placeholder { color: #2779aa; }
+:disabled { background-color: #c2c2c2; border-color: #969696 }
+:disabled:hover { border-color: #969696 }

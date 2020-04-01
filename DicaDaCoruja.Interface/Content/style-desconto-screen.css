@@ -1,0 +1,11 @@
+﻿.carousel{width:100%;position:relative}
+.carousel .carousel-item{display:none}
+.carousel .carousel-active{display:block}
+.carousel :nth-child(2).carousel-nav{display:none}
+.carousel-fade{overflow:hidden;position:relative;transform:translate3d(0px, 0px, 0px);-webkit-transform:translate3d(0, 0, 0);-moz-transform:translate3d(0, 0, 0);-o-transform:translate3d(0, 0, 0)}
+.carousel-fade .carousel-item{transition:opacity 0.5s;left:0px;top:0px;width:100%;display:block;position:absolute;-webkit-transition:opacity .5s ease;-moz-transition:opacity .5s ease;-o-transition:opacity .5s ease}
+.carousel-fade .carousel-active{position:relative}
+.carousel-fade .carousel-item{opacity:0}
+.carousel-fade .carousel-out{opacity:0}
+.carousel-fade .carousel-active{opacity:1}
+.carousel-fade .carousel-in{opacity:1}
